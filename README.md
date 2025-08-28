@@ -76,7 +76,7 @@ Wanderlust/
 ---
 
 ## 📸 Screenshots
-*(You can add screenshots of your app here)*
+*(You can add screenshots of your app here)
 
 ---
 
