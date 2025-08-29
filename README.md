@@ -75,8 +75,17 @@ Wanderlust/
 
 ---
 
-## 📸 Screenshots
-*(You can add screenshots of your app here)
+### 🏠 Home Page
+![Home Page](images/home.png)
+
+### 🔐 Login Page
+![Login Page](images/login.png)
+
+### 📄 Listings Page
+![Listings Page](images/All listings.png)
+
+### 📷 Property Upload Page
+![Upload Page](images/upload.png)
 
 ---
 
