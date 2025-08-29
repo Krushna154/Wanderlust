@@ -76,11 +76,8 @@ Wanderlust/
 ---
 ## 📸 Images
 
-### 🏠 All Listings Page
-![All Listings](Images/All Listings.png)
-
 ### 🏗️ Create New Listings Page
-![Create New Listings](Images/Create New Listings.png)
+![Create New Listings](Images/Create%20New%20Listings.png)
 
 ### 🔐 Login Page
 ![Login](Images/Login.png)
@@ -89,7 +86,7 @@ Wanderlust/
 ![Sign Up](Images/SignUp.png)
 
 ### 🏖️ Cozy Beachfront Cottage
-![Cozy Beachfront Cottage](Images/Cozy Beachfront Cottage.png)
+![Cozy Beachfront Cottage](Images/Cozy%20Beachfront%20Cottage.png)
 
 ---
 
