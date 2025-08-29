@@ -93,10 +93,5 @@ Wanderlust/
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ### 👨‍💻 Author
 Developed by **Krushna Sangale** as part of a full-stack learning project.
